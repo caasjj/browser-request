@@ -5,6 +5,7 @@
     "name": "Jason Smith",
     "email": "jhs@iriscouch.com"
   },
+  "main":"./index.js",
   "description": "Browser port of the Node.js 'request' package",
   "keywords": [
     "request",
